@@ -1,0 +1,772 @@
+{
+  "ollama.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "spoolsv.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ipf_uf.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.KeyboardManagerEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "audiodg.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:27:47",
+    "total_minutes": 4
+  },
+  "QuickShareService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WmiPrvSE.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "DataExchangeHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungMultiControlService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "sihost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SurSvc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ScreenMode.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "dwm.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "AggregatorHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WindowsMCFCore.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.PowerOCR.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SmartThingsAVplayer.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QuickControls.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "DSATray.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.MouseJumpUI.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "svchost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MsMpEng.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "csrss.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ApplicationFrameHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IntelAudioService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "taskhostw.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungFileTrackerServiceCore.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IntelCpHDCPSvc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Microsoft.SharePoint.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QuickSearchIndexer.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "BudsManager.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "OfficeClickToRun.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IGCCTray.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ShellHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "pg_ctl.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Code.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "BixbyWindowsService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "esrv_svc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MpDefenderCoreService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "TextInputHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SearchIndexer.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "LockApp.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "services.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Registry": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "StartMenuExperienceHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.CropAndLock.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "qvWindowsService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "wlanext.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungNotesSysTray.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "lsass.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Widgets.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "HPPrintScanDoctorService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IGCC.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "winlogon.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "python.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "DAX3API.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "fontdrvhost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IntelSoftwareAssetManagerService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SmartThings.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "explorer.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "BraveCrashHandler.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WhatsApp.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WMIRegistrationService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SystemPlatformEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "LiveWallpaperWindowsService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SUService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QSSystray.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "remoting_host.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "LsaIso.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "System Idle Process": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.FancyZones.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SecurityHealthService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SecondScreenDesktop.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SDXHelper.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "msedgewebview2.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ShellExperienceHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MSPCManager.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.Peek.UI.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "UserOOBEBroker.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "GitHubDesktop.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SecondScreen.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "System": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Copilot.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MSPCManagerService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "NgcIso.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.ColorPickerUI.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "sServiceAgentLauncherSvc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ProtonVPN.Client.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MSPCManagerCore.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "postgres.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "pet.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungSystemSupportService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "smss.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "DSAService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "sqlwriter.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "esrv.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ProtonVPNService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "CrossDeviceService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.PowerLauncher.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PresentMonService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.AdvancedPaste.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PhoneExperienceHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "updatechecker.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SAService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PTPFilterService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "StudiomodeSvc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungSettingsHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "CrossDeviceResume.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "DSAUpdateService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SUUserModeWorker.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "dllhost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungSystemSupportEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "Intel_PIE_Service.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "RtkAudUService64.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "LoopbackExemptionManager.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QuickShare.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SUEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.AlwaysOnTop.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SystemSettings.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "IntelGraphicsSoftware.Service.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ColorEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "brave.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "jhi_service.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ConsultingModeService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungSecuritySupporter.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "wslservice.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "MemCompression": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "conhost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ollama app.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "backgroundTaskHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ipfsvc.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "BraveCrashHandler64.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WUDFHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "RevoUninHelper.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "NisSrv.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QuickLook.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ctfmon.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "QuickSearchService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SamsungSecuritySupportService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SecurityHealthSystray.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "SearchHost.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "GBExperience.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "WidgetService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "wininit.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PowerToys.PowerAccent.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ipf_helper.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "PTPGestureEngine.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "ConsultingMode.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "BulletService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "powershell.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "sServiceKeyMonitor.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "RuntimeBroker.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  },
+  "OneApp.IGCC.WinService.exe": {
+    "start_time": "15:23:46",
+    "last_seen": "15:29:17",
+    "total_minutes": 5
+  }
+}

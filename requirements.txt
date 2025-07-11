@@ -1,0 +1,7 @@
+psutil
+customtkinter
+psutil
+customtkinter
+pywin32
+matplotlib
+requests
